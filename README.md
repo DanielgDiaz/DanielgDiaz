@@ -3,8 +3,8 @@
 
 
 
-- 🚀I’m currently learning on F5 Bootcamp
-- 🐱‍💻 I’m looking for my first job as a developer
+- 🚀
+- 🐱‍💻 
 
 
 
