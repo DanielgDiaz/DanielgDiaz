@@ -1,8 +1,7 @@
 Hi 👋 My name is Dani
 =====================
 
-Full stack developer
---------------------
+
 
 * 🌍  I'm based in Asturias
 * ✉️  You can contact me at [https://www.linkedin.com/in/danielgdiaz/](mailto:https://www.linkedin.com/in/danielgdiaz/)
