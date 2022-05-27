@@ -37,4 +37,3 @@ Hi 👋 My name is Dani
 
  
  
- ![](https://komarev.com/ghpvc/?username=danielgdiaz&color=blueviolet)
