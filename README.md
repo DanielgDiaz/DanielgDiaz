@@ -32,7 +32,7 @@ Hi 👋 My name is Dani
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgdiaz&langs_count=10&theme=buefy&layout=compact" alt="Dani G. :: Top Langs" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgdiaz&langs_count=8&theme=buefy&layout=compact" alt="Dani G. :: Top Langs" />
 
 
  
